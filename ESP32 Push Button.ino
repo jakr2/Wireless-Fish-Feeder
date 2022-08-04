@@ -48,7 +48,7 @@ void setup() {
     new Service::AccessoryInformation();
       new Characteristic::Identify(); 
   
-  // Defines LED accessory
+  // Defines accessory
   new SpanAccessory();                                                          
     new Service::AccessoryInformation();
       new Characteristic::Identify(); 
